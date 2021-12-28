@@ -1,0 +1,2 @@
+# Number_Line_Bisection_Task
+This repository contains a Python file for the execution of the experiment: "Number Line Bisection Task". This experiment aims at detecting the ability and the accuracy of a human subject to place verbal numbers onto a physical horizontal line together to two (or zero) flankers. Lines are different in length and all combinations take 105 trials totally. Subjects are required to press the left mouse key to accomplish the task.
